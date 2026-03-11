@@ -1,7 +1,6 @@
 # AI_based_STEEL_DEFFECTS_detection
 AI-based steel surface defect detection system using YOLOv8. The model detects and localizes multiple steel surface defects in real-time for automated industrial quality inspection.
 
-Steel Surface Defect Detection using YOLOv8
 Overview
 
 This project implements an AI-based steel surface defect detection system using the YOLOv8 object detection framework. The model is trained on multiple steel defect datasets to detect and localize defects such as scratches, inclusions, pitted surfaces, stains, and rolling defects. The system is designed for automated quality inspection in steel manufacturing environments, particularly for conveyor-based inspection systems.
